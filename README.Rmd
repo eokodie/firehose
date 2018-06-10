@@ -1,0 +1,16 @@
+---
+output:
+  github_document:
+    html_preview: false
+---
+<!-- README.md is generated from README.Rmd. Please edit that file --> 
+
+Exploring state-of-the-art research publication metadata 
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
